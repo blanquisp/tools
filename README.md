@@ -1,4 +1,3 @@
-## Cómo
 ## Establecer nombre de host
 
 Visualiza el nombre de host del sistema. 
