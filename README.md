@@ -34,7 +34,6 @@ Reinicia el servidor Linux inmediatamente.
 sudo reboot now  
 ```
 ## Extensiones Gnome 
-
 ```
 sudo apt install chrome-gnome-shell
 ```
